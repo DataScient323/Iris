@@ -1,13 +1,3 @@
-# https://dev.to/thalesbruno/subplotting-with-matplotlib-and-seaborn-5ei8
-# https://www.kaggle.com/amark720/iris-species-rare-visualization-tools/notebook
-# http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx/notebooks/ml_cc_machine_learning_problems2.html
-# https://cambridgecoding.wordpress.com/2016/05/16/expanding-your-machine-learning-toolkit-randomized-search-computational-budgets-and-new-algorithms-2/
-# https://stats.stackexchange.com/questions/329390/logistic-regression-vs-svm
-# https://towardsdatascience.com/understanding-random-forest-58381e0602d2
-# https://towardsdatascience.com/support-vector-machine-simply-explained-fee28eba5496
-# from My_Projects.Iris_Species.ML_Iris_Species import Iris_Species
-# https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2
-# https://moonbooks.org/Articles/How-to-increase-the-size-of-axes-labels-on-a-seaborn-heatmap-in-python-/
 import numpy as np
 import pandas as pd
 
